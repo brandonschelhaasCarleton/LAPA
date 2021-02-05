@@ -4,7 +4,7 @@ clc
 clear
 close all
 
-% ELEC 4707 - PA4: Laplace
+% ELEC 4700 - PA4: Laplace
 % Brandon Schelhaas
 % 101036851
 
